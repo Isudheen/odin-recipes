@@ -1,3 +1,3 @@
 # odin-recipes
 
-As part of odin-project and camp week1.
+As part of odin-project and boot-camp week1.
